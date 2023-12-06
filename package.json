@@ -5,7 +5,7 @@
   "author": "Shimon Wosner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shwosner/realtime-chat-supabase-react"
+    "url": "https://github.com/volodymyr1116/React-Supabase-Real-time-Chat-Chakra-UI.git"
   },
   "type": "module",
   "dependencies": {
